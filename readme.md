@@ -3,9 +3,8 @@
     - [X] Add
     - [X] Commit
     - [X] Commit History
-    - [ ] Diff
     - [ ] Undo revision
-    - [ ] Undo advanced revisions
-    - [ ] Branch
+    - [X] Undo advanced revisions
+    - [X] Branch
     - [ ] Remote
-    - [ ] Push
+
