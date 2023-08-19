@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("register")
-	fmt.Println("New password")
+	fmt.Println("password")
 }
